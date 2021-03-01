@@ -7,7 +7,7 @@ Grider.
 A bit of refactoring code. Trying out to implement a custom hook. Hooray, it 
 worked eventually!
 
-###Getting Started
+### Getting Started
 Mind while pushing files into a repository I received a complaint sent by A Big 
 Brother. It was absolutely furious at the fact that my API had 
 been shared to public. For the reason I had to take it down. I expect you're 
